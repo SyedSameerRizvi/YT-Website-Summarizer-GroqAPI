@@ -2,15 +2,8 @@ langchain
 python-dotenv
 ipykernel
 langchain-community
-pypdf
-bs4
-arxiv
-pymupdf
-wikipedia
 langchain-text-splitters
-langchain-openai
 sentence_transformers
-langchain_huggingface
 streamlit
 validators==0.28.1
 youtube_transcript_api

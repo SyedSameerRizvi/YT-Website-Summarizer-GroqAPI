@@ -16,7 +16,7 @@ This is a Streamlit-based web app that summarizes content from YouTube videos an
 2. Set up your `Groq API key` by creating your own account in [Groq.com](https://groq.com/). This will be required within the Streamlit app to access the summarization model.
 
 ## Usage
-1. Check the streamlit app:
+1. Check the streamlit app: [Youtube and URL Summarizer](https://yt-url-summarizer.streamlit.app/)
 2. Enter your Groq API key in the sidebar.
 3. Provide a YouTube URL or Website URL.
 4. Click the Summarize button to generate a summary.
